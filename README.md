@@ -1,7 +1,7 @@
 This repository is a collection for code and implementation "Scenes" used in the Chess VR Project.
 
 The software used is Unity for the Game Development and Visual Studio for debugging/editing. This repository is not complete in the sense that only the user-written code is uploaded. Other dependencies such as:
-1. Google VR (GVR Library)
+1. Google VR (GVR Library) (Version used: v1.140.0 https://github.com/googlevr/gvr-android-sdk/releases)
 2. Simple Firebase Unity (Open-source Firebase wrapper in C# https://github.com/dkrprasetya/simple-firebase-unity)
 3. GamePlan VFX Chess Set (https://assetstore.unity.com/packages/3d/2d-3d-chess-pack-93915)
 4. Chess Board Textures (https://assetstore.unity.com/packages/3d/chess-board-textures-68969)
